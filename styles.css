@@ -1,0 +1,33 @@
+
+body {
+    background-color: rgb(78, 238, 230);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+h1 {
+    font-weight: 300;
+    text-align: center;
+    margin-top: 100px;
+}
+h2 {
+    text-align: center;
+    font-size: 3em;
+    font-weight: 600;
+    color: rgb(238, 238, 116)
+}
+
+
+ul {
+    
+    list-style-type: none;
+    display: flex;
+    justify-content: flex-end;
+}
+ ul li {
+     margin: 10px 30px;
+ }
+
+ p {
+     text-align: center;
+ }
